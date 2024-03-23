@@ -7,6 +7,10 @@ h1{
     padding: 20px;
     margin-bottom: 30px;
 }
-img1{
+.img1{
     border-radius: 50%;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
 }
