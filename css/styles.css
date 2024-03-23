@@ -8,9 +8,12 @@ h1{
     margin-bottom: 30px;
 }
 .img1{
-    border-radius: 50%;
+    border-radius: 25%;
 }
 h2{
     background-color: black;
     color: aliceblue;
+}
+ul{
+    text-decoration: none;
 }
