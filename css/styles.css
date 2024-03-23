@@ -24,3 +24,16 @@ ul,ol{
    padding: 10px;
    margin-bottom: 30px;
 }
+.sub{
+    margin: 20px;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
