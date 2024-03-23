@@ -20,3 +20,7 @@ h2{
 ul,ol{
     list-style-type: none;
 }
+.pd{
+   padding: 10px;
+   margin-bottom: 30px;
+}
